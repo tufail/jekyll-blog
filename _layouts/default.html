@@ -6,12 +6,18 @@
   <body>
 
     {% include header.html %}
+    
+    <!-- Page Content -->
+    <div class="container">
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+        <div class="row">
+        <!-- Blog Entries Column -->
+            <div class="col-md-8">
+ 
+                   {{ content }}
+      
+
+      {% include right.html%}
 
     {% include footer.html %}
 
