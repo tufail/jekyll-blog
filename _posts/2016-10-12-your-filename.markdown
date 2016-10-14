@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![sea and beach side]({{site.baseurl}}images/pexels-photo-106126.jpeg)
+![sea and beach side]({{site.baseurl}}/images/pexels-photo-106126.jpeg)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis orci tempor viverra aliquet. Donec volutpat faucibus imperdiet. Nulla est orci, lacinia in efficitur eu, facilisis et massa. Donec quis arcu elit. Suspendisse potenti. Quisque turpis metus, varius eget tristique non, laoreet posuere leo. Nunc eget turpis nec augue tempus hendrerit. Sed feugiat scelerisque augue, id efficitur ipsum efficitur a. Quisque cursus commodo felis et tempus. Nullam rhoncus faucibus tellus, eu consequat sem venenatis ut. Vivamus ac congue risus. Morbi id tellus libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam et odio maximus, pharetra est in, malesuada nibh. Maecenas id purus vitae diam faucibus pretium eget pellentesque justo.
 
 Mauris tincidunt pretium blandit. Donec accumsan tellus id molestie tempus. Suspendisse tempus mi interdum consectetur maximus. Vivamus et diam tempus, cursus lacus vitae, convallis libero. Ut in ante mauris. Cras auctor mattis neque pulvinar pulvinar. Aliquam tincidunt placerat nisi id blandit. Suspendisse potenti.
