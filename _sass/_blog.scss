@@ -7,21 +7,21 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
-h2{
+h2, h1.post-title{
 	 font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-weight: 800;
 	text-transform: uppercase;
 }
-.post-list{
+.post-list, #search-results{
 	list-style-type: none;
 	padding: 0px;
 	margin: 0px;
 	h2{
 	 font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-	font-weight: 800;
-	text-transform: uppercase;
-	margin: 20px 0px;
-}
+		font-weight: 800;
+		text-transform: uppercase;
+		margin: 20px 0px;
+	}
 	li{
 		 border-bottom: 1px solid #eee;
 		 padding: 30px 0px;
@@ -54,6 +54,20 @@ h2{
 }
 .post-meta{
 	 color: #ccc;
+}
+.recent-list{
+	 list-style-type: none;
+	 padding: 5px 0px;
+	 margin: 0px;
+	 .post-meta{
+	 	  color: #999;
+	 	  display: block;
+	 	  font-size: 9px;
+
+	 }
+	 li{
+	 	padding: 10px 0px;
+	 }
 }
 p{
 	color: #777;
