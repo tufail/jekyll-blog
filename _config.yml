@@ -18,9 +18,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 gems: [jekyll-paginate]
 # Build settings
-markdown: kramdown 
 paginate: 3
 #paginate_path: "/page:num/"
+markdown: kramdown 
 defaults:
   -
     scope:
