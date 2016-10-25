@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+![46417_2_yankee_large.jpg]({{site.baseurl}}/images/46417_2_yankee_large.jpg)
 The first test content for homepage.
 
 it will not show in front beccause it will be in readon. for read more..automatically get a read more link after first paragraph.
